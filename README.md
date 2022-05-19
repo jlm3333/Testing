@@ -4,4 +4,4 @@ Testing!
 
 ## SUB HEADER
 
-Lets earn money
+Watch & Learn
